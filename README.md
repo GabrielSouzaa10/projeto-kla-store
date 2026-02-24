@@ -103,10 +103,10 @@ Margem % = DIVIDE([Lucro Total], [Faturamento Total])
 
 ---
 
-### 🧾 Ticket Médio
+### 🧾 Valor Médio Produto
 
 ```DAX
-Ticket Médio = DIVIDE([Faturamento Total], [Qtd. Vendida])
+Valor Médio = DIVIDE([Faturamento Total], [Qtd. Vendida])
 ```
 
 **Uso no projeto:** exibido nos tooltips do gráfico temporal para enriquecer a análise de vendas.
@@ -203,4 +203,5 @@ Por questões de confidencialidade, **dados e arquivos do modelo (.pbix)** não 
 Se quiser trocar ideia sobre o projeto ou oportunidades:
 - **LinkedIn:** (https://www.linkedin.com/in/gabriel-souzaa10/)
 - **E-mail:** (gabrielsouza1950@hotmail.com)
+
   
